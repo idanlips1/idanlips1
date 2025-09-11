@@ -62,7 +62,7 @@ An ML project using **logistic regression** to classify handwritten digits.
 
 ---
 
-### 🔹 [Multithreaded Pipelines (C, OS Project)](https://github.com/idanlips1/Ex03FileSystem)  
+### 🔹 [Multithreaded Pipelines (C, OS Project)](https://github.com/idanlips1/Pipeline-System)  
 An **operating systems project in C** implementing a **multithreaded pipeline**.  
 - Producer-consumer model with bounded queues.  
 - Plugins: uppercase, reverse, rotate, expand, etc.  
@@ -72,4 +72,4 @@ An **operating systems project in C** implementing a **multithreaded pipeline**.
 ---
 
 📫 **Let’s connect**:  
-[LinkedIn](https://www.linkedin.com/in/idanlipschitz/) | ✉️ idanlipschitz@example.com
+[LinkedIn](https://www.linkedin.com/in/idanlipschitz/) | ✉️ idanlips@gmail.com
