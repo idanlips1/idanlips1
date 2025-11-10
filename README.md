@@ -1,6 +1,6 @@
 # Hi, I’m Idan 👋
 
-**Computer Science student @ Reichman University | Backend Developer (C# & Java) | Ex-IDF Paratrooper Commander**
+**Computer Science student @ Reichman University | Backend Developer (C#, Java, Python) | Ex-IDF Paratrooper Commander**
 
 I focus on building **robust backend systems** with **C# (.NET Core)** and **Java (Spring Boot)**.  
 At the same time, I’ve explored **Machine Learning** and **Systems Programming in C**, which gives me a broad perspective on software performance and scalability.  
