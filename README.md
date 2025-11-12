@@ -19,6 +19,7 @@ At the same time, I’ve explored **Machine Learning** and **Systems Programming
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -34,12 +35,21 @@ At the same time, I’ve explored **Machine Learning** and **Systems Programming
 
 ## 🚀 Featured Projects
 
-### 🔹 [Garage Management System (C#)](https://github.com/idanlips1/Garage)  
-A console-based backend system in **C# and .NET**, demonstrating strong **OOP design**.  
-- Manage vehicles: add/update/remove cars, motorcycles, trucks.  
-- Apply services: fueling, charging, tire inflation.  
-- Built with inheritance, interfaces, and enums.  
-- Extensible architecture to support new features.  
+### 🔹 [Mega Coder (Python, LLM Automation)](https://github.com/idanlips1/MegaCoder)  
+An AI-powered developer assistant that generates, optimizes, and debugs Python applications using **Gemini 2.5 Pro** and **GPT-5**.  
+- Natural language to working Python programs with automated assertion checks.  
+- Auto-fixes linting and runtime errors, tracks performance improvements.  
+- Analyzes public GitHub repos and suggests fixes or enhancements.  
+- Real-time coding tips via screen OCR with unobtrusive background monitoring.  
+
+---
+
+### 🔹 [Gmail AI Analyzer (Python, LLM Analytics)](https://github.com/idanlips1/GMAIL-AI)  
+A privacy-first Gmail dashboard that processes email locally through **Ollama LLMs** and generates actionable insights.  
+- Fetches and categorizes emails without sending data to external APIs.  
+- Ranks priorities and flags messages requiring responses.  
+- Visualizes categories, response needs, and priority trends with Matplotlib.  
+- Secures Gmail API access with OAuth 2.0 and uses Redis caching.  
 
 ---
 
