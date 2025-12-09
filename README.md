@@ -35,6 +35,15 @@ At the same time, I’ve explored **Machine Learning** and **Systems Programming
 
 ## 🚀 Featured Projects
 
+### 🔹 [Psychology Session Analyzer (Microservices, AI, Distributed Systems)](https://github.com/idanlips1/psychology-session-analyzer)
+A complete end-to-end microservice ecosystem that processes therapy session videos using event-driven architecture.  
+- FastAPI-based upload service → MinIO storage  
+- Audio extraction, transcription (AssemblyAI + diarization), LLM-based topic & emotion detection  
+- Redis caching, PostgreSQL persistence layer, and RabbitMQ message pipelines  
+- Aggregated logging & monitoring via Datadog  
+
+---
+
 ### 🔹 [Mega Coder (Python, LLM Automation)](https://github.com/idanlips1/MegaCoder)  
 An AI-powered developer assistant that generates, optimizes, and debugs Python applications using **Gemini 2.5 Pro** and **GPT-5**.  
 - Natural language to working Python programs with automated assertion checks.  
@@ -59,15 +68,6 @@ A backend system built with **Java Spring Boot**, demonstrating **microservices 
 - REST APIs for communication.  
 - Dockerized for containerized deployment.  
 - CI/CD pipeline for build & test automation.  
-
----
-
-### 🔹 [Logistic Regression on MNIST (ML)](https://github.com/idanlips1/Logistic-Regression---MNIST-dataset)  
-An ML project using **logistic regression** to classify handwritten digits.  
-- Implemented gradient descent + softmax from scratch.  
-- Compared performance with scikit-learn.  
-- Achieved ~92–94% accuracy on MNIST test set.  
-- Visualized misclassified digits for error analysis.  
 
 ---
 
