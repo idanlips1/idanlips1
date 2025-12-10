@@ -81,4 +81,4 @@ An **operating systems project in C** implementing a **multithreaded pipeline**.
 ---
 
 📫 **Let’s connect**:  
-[LinkedIn](https://www.linkedin.com/in/idanlipschitz/) | ✉️ idanlips@gmail.com
+[LinkedIn][(https://www.linkedin.com/in/idanlipschitz/)](https://www.linkedin.com/in/idan-lipschitz-b061a8301/) | ✉️ idanlips@gmail.com
