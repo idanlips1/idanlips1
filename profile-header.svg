@@ -1,0 +1,50 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Idan Lipschitz — Backend Engineer</title>
+  <desc id="desc">Dark blue portfolio banner with a data pipeline illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="60" y1="20" x2="1140" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#111D33"/>
+      <stop offset="1" stop-color="#0B3A53"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="760" y1="70" x2="1080" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <circle cx="1100" cy="28" r="170" fill="#1F6FEB" fill-opacity="0.10"/>
+  <circle cx="1010" cy="320" r="205" fill="#2DD4BF" fill-opacity="0.08"/>
+  <path d="M0 270C170 225 310 306 480 268C660 228 805 250 930 211C1044 176 1118 184 1200 203V320H0V270Z" fill="#58A6FF" fill-opacity="0.035"/>
+
+  <g opacity="0.32">
+    <path d="M785 109L878 69L974 123L1072 82" stroke="#58A6FF" stroke-width="2"/>
+    <path d="M785 109L862 180L974 123L1043 207" stroke="#2DD4BF" stroke-width="2"/>
+    <path d="M862 180L938 247L1043 207L1124 249" stroke="#58A6FF" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.4">
+    <circle cx="974" cy="123" r="22" fill="#2DD4BF"/>
+    <circle cx="862" cy="180" r="18" fill="#58A6FF"/>
+  </g>
+
+  <g fill="#0D1117" stroke="url(#accent)" stroke-width="4">
+    <circle cx="785" cy="109" r="14"/>
+    <circle cx="878" cy="69" r="14"/>
+    <circle cx="974" cy="123" r="17"/>
+    <circle cx="1072" cy="82" r="14"/>
+    <circle cx="862" cy="180" r="17"/>
+    <circle cx="1043" cy="207" r="17"/>
+    <circle cx="938" cy="247" r="14"/>
+    <circle cx="1124" cy="249" r="14"/>
+  </g>
+
+  <rect x="72" y="64" width="58" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="130" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="750" letter-spacing="1">IDAN LIPSCHITZ</text>
+  <text x="74" y="178" fill="#9FDBFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="600" letter-spacing="2">BACKEND ENGINEER · JAVA · SPRING BOOT · CLOUD</text>
+  <text x="74" y="221" fill="#B8C7D9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">Building reliable systems, data pipelines, and practical AI.</text>
+</svg>
