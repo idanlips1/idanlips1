@@ -1,18 +1,19 @@
+<h1 align="center">Hi, I'm Idan 👋</h1>
+
+<h3 align="center">Backend Engineer at XM Cyber</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:17365D,100:0B6E75&amp;height=210&amp;section=header&amp;text=Idan%20Lipschitz&amp;fontSize=46&amp;fontColor=F0F6FC&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Cloud&amp;descAlignY=58&amp;descSize=18" alt="Idan Lipschitz — Backend Engineer" width="100%" />
+  Java · Spring Boot · Cloud · Applied AI/ML
 </p>
 
 <p align="center">
-  <strong>Backend Engineer at XM Cyber</strong> · B.Sc. Computer Science at Reichman University
+  B.Sc. Computer Science at Reichman University
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/idan-lipschitz-b061a8301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:idanlips@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idanlips%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;v=2" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/idan-lipschitz-b061a8301/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:idanlips@gmail.com"><strong>Email</strong></a>
 </p>
 
 ## About me
