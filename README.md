@@ -18,7 +18,7 @@
 
 ## About me
 
-I build reliable backend systems with **Java and Spring Boot**, with hands-on experience in data ingestion, REST API test automation, SQL analytics, and cloud-native delivery. I also enjoy applying Python and modern AI/ML techniques to practical problems.
+I build reliable backend systems with **Java and Spring Boot**, Passionate about backend development, Machine Learning and Artificial Intelligence. 
 
 - **Backend engineering:** REST APIs, data pipelines, distributed systems, SQL
 - **Quality and delivery:** REST-Assured, JUnit, CI/CD, Kubernetes
