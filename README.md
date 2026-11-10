@@ -18,7 +18,7 @@
 
 ## About me
 
-I build reliable backend systems with **Java and Spring Boot**, Passionate about backend development, Machine Learning and Artificial Intelligence. 
+I build backend systems with **Java and Spring Boot**, Passionate about backend development, Machine Learning and Artificial Intelligence. 
 
 - **Backend engineering:** REST APIs, data pipelines, distributed systems, SQL
 - **Quality and delivery:** REST-Assured, JUnit, CI/CD, Kubernetes
